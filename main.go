@@ -16,4 +16,11 @@ func main() {
 	} else {
 		fmt.Println("try again")
 	}
+
+	var MySlice = []string{
+		"muhammad",
+		"ian",
+		"rush",
+	}
+	fmt.Println(MySlice)
 }
